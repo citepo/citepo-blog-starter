@@ -18,12 +18,6 @@ A blog powered by [CitePo](https://citepo.com).
 ```bash
 # Start development server
 npx citepo dev
-
-# Build for production
-npx citepo build
-
-# Preview build output
-npx serve dist
 ```
 
 ## Writing Posts
